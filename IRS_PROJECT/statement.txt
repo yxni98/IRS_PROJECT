@@ -1,3 +1,5 @@
+Please unzip the "poster" in the same root category first.
+
 ### interaction interface ###
 
 
