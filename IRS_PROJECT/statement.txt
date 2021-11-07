@@ -1,0 +1,25 @@
+### interaction interface ###
+
+
+
+The "data_convert.py" is used to convert the interaction records into the form that matches the input of the algorithm.
+
+
+### run the algorithm ###
+
+Click the "bat" file, the algorithm would run and record the predict results in "result/metrics.txt" and "result/predict";
+
+"metrics.txt" reports the overall performance of the algorithm on the given dataset;
+
+"predict" records the predicted (user, item) pairs.
+
+
+### display feedback to users through the feedback interface ###
+
+The "web_crawler.py" is used to collect and storage the movie posters from the web;
+
+The "view.py" is used to display (i) user's historical items in train data, (ii) predicted items and (iii) items in test data,
+which are collect from the train file, the generated prediction file and the test file respectively. It's supported by a light
+game engine and is designed for display the feedback interface for users.
+
+ 

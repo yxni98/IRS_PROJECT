@@ -1,0 +1,2 @@
+javac PoiFHSM.java
+java PoiFHSM -d 20 -alpha 0.5 -alpha_w 0.01 -alpha_v 0.01 -beta_v 0.01 -gamma 0.01 -fnTrainData DATA/train -fnTestData DATA/test -n 943 -m 1682 -num_iterations 500 -topK 20 MRR MAP ARP AUC  >result/metrics.txt
