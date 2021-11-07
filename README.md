@@ -39,7 +39,7 @@ Personalized services can build a bridge between users and merchants. When users
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<img src="IRS_PROJECT/md_files/3.png"
+<img src="IRS_PROJECT/md_files/3.jpg"
      style="float: left; margin-right: 0px;" />
 
 Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
