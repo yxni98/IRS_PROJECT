@@ -17,6 +17,7 @@
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 <img src="IRS_PROJECT/md_files/2.png"
      style="float: left; margin-right: 0px;" />
+
 The development of recommender system has passed nearly 20 years. Recommender System in general can be considered as a system which recommend items to users, the items includes goods, songs, movies, activities and so on. With time passing, users have realized that recommender system has eroded in every part of their life, especially in the digital era. They are more eager to be accurately recommended when they pick up a phone and click into the online shopping website. 
 
 Besides purchasing goods from the internet, people’s inner world are waited to be satisfy. For the Covid-19 environment globally, the time people stay at home is increasing sharply. They tend to click into some websites, like YouTube, Netflix, Douban, or so on, to watch movies and episodes based on their past taste, which means accurate movie recommendation system meets people’s requirements.
