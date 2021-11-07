@@ -43,7 +43,7 @@ Personalized services can build a bridge between users and merchants. When users
      style="float: left; margin-right: 0px;" />
 
 Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
+More reference video presentations [here](https://www.youtube.com/watch?v=K7fLTOhfz8o&t=52s "video presentations")
 
 ---
 
