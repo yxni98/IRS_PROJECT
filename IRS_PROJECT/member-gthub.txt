@@ -1,4 +1,0 @@
-Group name: HFGL
-Member names: Ni Yongxin, Zheng Zhiwei, Peng Junhao
-Student IDs: A0231559B, A0231437L, A0231329L
-Github Link: https://github.com/YX17722828128/IPA_PROJECT.git
