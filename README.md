@@ -50,7 +50,7 @@ More reference video presentations [here](https://www.youtube.com/watch?v=K7fLTO
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+`Refer to project report at Github Folder: IRS_PROJECT/IRS_PROJECT/IRS project report.pdf`
 
 ### [ 1 ] interaction interface
 
