@@ -1,12 +1,4 @@
-﻿### [ Practice Module ] Project Submission Template: Github Repository & Zip File
-
-**[ Naming Convention ]** CourseCode-StartDate-BatchCode-TeamName-ProjectName.zip
-
-* **[ MTech Thru-Train Group Project Naming Example ]** IRS-PM-2020-01-18-IS02PT-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-* **[ MTech Stackable Group Project Naming Example ]** IRS-PM-2020-01-18-STK02-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-[Online editor for this README.md markdown file](https://pandao.github.io/editor.md/en.html "pandao")
+﻿### [ Practice Module ] IRS-PM-2021-09-01-IS02PT-GRP-HFGL-A Movie Recommender System with implicit feedback.zip
 
 ---
 
@@ -16,12 +8,15 @@
 
 ## SECTION 1 : PROJECT TITLE
 ## **A Movie Recommender System with implicit feedback**
-
+<img src="IRS_PROJECT/md_files/1.png"
+     style="float: left; margin-right: 0px;" />
 
 
 ---
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
+<img src="IRS_PROJECT/md_files/2.png"
+     style="float: left; margin-right: 0px;" />
 The development of recommender system has passed nearly 20 years. Recommender System in general can be considered as a system which recommend items to users, the items includes goods, songs, movies, activities and so on. With time passing, users have realized that recommender system has eroded in every part of their life, especially in the digital era. They are more eager to be accurately recommended when they pick up a phone and click into the online shopping website. 
 
 Besides purchasing goods from the internet, people’s inner world are waited to be satisfy. For the Covid-19 environment globally, the time people stay at home is increasing sharply. They tend to click into some websites, like YouTube, Netflix, Douban, or so on, to watch movies and episodes based on their past taste, which means accurate movie recommendation system meets people’s requirements.
@@ -44,7 +39,8 @@ Personalized services can build a bridge between users and merchants. When users
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-
+<img src="IRS_PROJECT/md_files/3.png"
+     style="float: left; margin-right: 0px;" />
 
 Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
 More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
